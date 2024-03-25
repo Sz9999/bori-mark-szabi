@@ -6,7 +6,7 @@ Series-networks
 
 ![Actor Network](actor_network.png)
 
-Ez a hálózat a legjobb 20 IMDB-értékelésű sorozat színészeit ábrázolja. Két színész között abban az esetben van kapcsolat, ha szerepelnek ugyanabban a sorozatban, az élek pedig a sorozatok szerint vannak színezve. Jól kirajzolódnak a különböző sorozatok a színészek csoportosulása által. Általában nem jellemző, hogy nagyobb színészcsoportok együtt játsszanak különböző sorozatokban, egy feltűnő kivétellel: a Seinfeld és a Jóbarátok jónéhány színészen osztozik.
+Ez a hálózat a legjobb 20 IMDB-értékelésű sorozat színészeit ábrázolja. Két színész között abban az esetben van kapcsolat, ha szerepelnek ugyanabban a sorozatban, az élek pedig a sorozatok szerint vannak színezve. Jól kirajzolódnak a különböző sorozatok a színészek csoportosulása által. Általában nem jellemző, hogy nagyobb színészcsoportok együtt játsszanak különböző sorozatokban, egy feltűnő kivétellel: a Seinfeld és a Jóbarátok jónéhány színészen osztozik. Ahogy szintén nem jellemző az sem, hogy egy színész kettőnél több nagysikerű sorozatban is szerepet vállaljon.
 
 ## 2: HIMYM characters
 
