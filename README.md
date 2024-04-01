@@ -4,13 +4,19 @@ Series-networks
 
 ## 1: Actor network
 
-![Actor Network](actor_network.png)
+![Actor Network](actor_network_comedy.png)
 
-Ez a hálózat a legjobb 20 IMDB-értékelésű sorozat színészeit ábrázolja. Két színész között abban az esetben van kapcsolat, ha szerepelnek ugyanabban a sorozatban, az élek pedig a sorozatok szerint vannak színezve. Jól kirajzolódnak a különböző sorozatok a színészek csoportosulása által. Általában nem jellemző, hogy nagyobb színészcsoportok együtt játsszanak különböző sorozatokban, egy feltűnő kivétellel: a Seinfeld és a Jóbarátok jónéhány színészen osztozik. Ahogy szintén nem jellemző az sem, hogy egy színész kettőnél több nagysikerű sorozatban is szerepet vállaljon.
 
-## 2: HIMYM characters
+## 2: Gender of Bridgerton characters
 
-![HIMYM characters](HIMYM_characters.png)
+![Bridgerton characters](bridgerton_characters.png)
 
+A Bridgerton sorozat alkotói a könyv filmes adaptációjakor jóval több új férfi szereplőt hoztak létre mint nőit. 
+
+## 3: Brigerton character network
+
+![Bridgerton network](bridgerton_character_network.png)
+
+A sok új férfi karakter létrehozása azonban elég furcsán alakította át a szerplők kapcsolatrendszerét. A sorozat kapcsolatrendszerében jóval több az olyan szereplő aki csak nagyon kevés másik szereplőhöz kapcsolható (gyakran csak egyhez). A sorozat alkotói az új férfi szereplők megalkotásakor nem hoztak létre annyira alaposan kitalált és felépített karaktereket mint a nők esetén. Míg a nők átlagos fokszáma a netflixes hálóban közel ugyanannyi mint a könyves verzióban, addig a férfiaké számottevően lecsökkent.
 
 
