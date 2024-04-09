@@ -34,6 +34,8 @@ The graph shows which characters from Breaking Bad and Better Call Saul have kil
 
 ![Ethnicities in South Park](southpark_ethnicity.png)
 
+Although we can see that the most prominent ethnicity is Caucasian, it is also clear that the background of the cast is very diverse. More than half of them do not belong to the four largest ethnicities, although this includes, for example, manbearpigs and aliens. We can also see that women are overrepresented in the Caucasian ethnicity compared to the average of the show.
+
 ## 7: Voice actors in South Park
 
 ![Voices in South Park](southpark.png)
